@@ -1,3 +1,3 @@
 # ESP32-re OLED kijelzőn időzítő.
-Gombnyomásra elindul, követekező gombnyomásra meg áll.
-A követekező gomnyomásra folytaja a számlálást.
+1. Gombnyomásra elindul, követekező gombnyomásra meg áll.
+2. A követekező gomnyomásra folytaja a számlálást.
